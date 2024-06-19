@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: KMAT_LIST_ASSETSProject
+  gitServerName: Karthik
+  gitUrl: https://github.com/karthikbm/KMAT_LIST_ASSETSProject
+  gitUsername: karthikbm
+  gitBranch: main
