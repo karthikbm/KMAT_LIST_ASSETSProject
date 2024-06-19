@@ -7,12 +7,6 @@ packages:
   gitUrl: https://github.com/karthikbm/KMAT_LIST_ASSETSProject
   gitUsername: karthikbm
   gitBranch: main
-- name: OriginKMAT_Jun2024
-  version: "1.0"
-  gitServerName: Karthik
-  gitUrl: https://github.com/karthikbm
-  gitUsername: karthikbm
-  gitBranch: main
 - name: ApiClient
   version: "1.0"
   gitServerName: Karthik
