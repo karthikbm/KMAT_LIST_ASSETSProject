@@ -19,6 +19,11 @@ packages:
   gitUrl: https://github.com/karthikbm
   gitUsername: karthikbm
   gitBranch: main
+- name: WmSalesforceProvider
+  gitServerName: KMAT_GHES
+  gitUrl: https://github.webmethods.io/AIM
+  gitUsername: kmat
+  gitBranch: main
 services:
 - serviceName: project.kmat_list_assets.integrations:add_ints
   packages:
