@@ -23,6 +23,11 @@ packages:
   gitUrl: https://github.com/karthikbm
   gitUsername: karthikbm
   gitBranch: main
+- name: ConnectorTest
+  gitServerName: Karthik
+  gitUrl: https://github.com/karthikbm
+  gitUsername: karthikbm
+  gitBranch: main
 services:
 - serviceName: project.kmat_list_assets.integrations:add_ints
   packages:
